@@ -28,18 +28,12 @@ body
 #container
 {
     width: 70%;
-    padding: 0;
+    padding: 1em;
     text-align: left;
-    border: 1px solid rgb(61, 5, 5);
-    margin: 10 auto;
+    border: 5px solid #DDD;
+    margin: 0 auto;
 }
-
 #container h1
 {
-    font-size: 20px;
-}
-
-#post
-{
-    padding: 1em;
+    font-size: 30px;
 }
