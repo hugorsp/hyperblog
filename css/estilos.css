@@ -56,3 +56,13 @@ body
     background-repeat: no-repeat;
     background-position: center;
 }
+
+#image2
+{
+    background-image: url('../imagenes/840_560.jpeg');
+    background-size: 300px;
+    width: 800px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
