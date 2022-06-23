@@ -20,6 +20,16 @@ body
     padding: 0.5em 0 0.5em 2em;
 }
 
+#footer
+{
+    background: #DDD;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    margin: -2em 0em 0em 2em;
+    text-align: center;
+    width: 842;
+    padding: 0.5em 0 0.5em 0em;
+}
 
 #cabecera #tagline
 {
